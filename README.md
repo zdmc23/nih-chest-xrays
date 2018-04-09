@@ -1,4 +1,5 @@
 # nih-chest-xrays
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zdmc23/nih-chest-xrays/blob/master/LICENSE)
 
 ### Udacity - Machine Learning Nanodegree - Capstone Project: (Mar. 2018)
 
